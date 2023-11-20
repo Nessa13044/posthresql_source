@@ -205,3 +205,26 @@ sudo systemctl status postgresql
 
 
 ![image](https://github.com/Nessa13044/posthresql_source/assets/114730329/ed4a7da2-7a83-47f4-b605-5e1ceec00c85)
+
+# -----------------------------------------------------------------------------------------------------------------------------------
+
+![image](https://github.com/Nessa13044/posthresql_source/assets/114730329/54426b00-54eb-4d4c-bed5-3186332bfdf8)
+![image](https://github.com/Nessa13044/posthresql_source/assets/114730329/2e2ac071-398b-4a61-93fc-2c81d9d93cc8)
+![image](https://github.com/Nessa13044/posthresql_source/assets/114730329/a3e50b00-a570-4125-8639-1ea40d759be3)
+![image](https://github.com/Nessa13044/posthresql_source/assets/114730329/1ee274c2-ad7c-4dad-b3ee-e623ea8d7259)
+![image](https://github.com/Nessa13044/posthresql_source/assets/114730329/db00caab-d835-49e2-bb44-9bf57f639ab4)
+![image](https://github.com/Nessa13044/posthresql_source/assets/114730329/a0887d1b-3405-49b2-855a-f3e33041e32c)
+
+# Initialize the PostgreSQL cluster: If the specified directory is intended to be the data directory for a new PostgreSQL cluster, you need to initialize it. Use the following command:
+# sudo -u postgres /app/postgres/product/15/db_1/bin/initdb -D /data01
+
+![image](https://github.com/Nessa13044/posthresql_source/assets/114730329/76defdad-08ed-46b3-97b3-5af3520d535e)
+![image](https://github.com/Nessa13044/posthresql_source/assets/114730329/a7d9c2fd-64ea-472b-a26c-ea8cbba793de)
+![image](https://github.com/Nessa13044/posthresql_source/assets/114730329/2e03cc5f-d392-4bb7-8287-3a4da2a0bfb6)
+![image](https://github.com/Nessa13044/posthresql_source/assets/114730329/3f059ecc-20e1-4d65-a7c3-cc43cea97bbb)
+
+
+
+
+
+
